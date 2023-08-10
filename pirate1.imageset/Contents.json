@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "jnmquick_GA_EST_detailed_comic_gold_wearing_sci-fi_pirate_woman_340cba50-2673-4e06-ba32-00ebceb57433.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
